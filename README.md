@@ -1,5 +1,5 @@
 # W207_Machine_Learning
-This repo contains projects I worked on for W207 - Applied Machine Learning in the UC Berkeley MIDS program.
+This repo contains projects I worked on for the course "Applied Machine Learning" (W207) in the UC Berkeley MIDS program.
 
 Project 1 covers image/digit recognition (specifically with MNIST digits).
 
